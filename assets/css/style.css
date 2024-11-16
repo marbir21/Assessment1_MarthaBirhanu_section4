@@ -1,0 +1,108 @@
+.head{
+    background-color:rgba(144, 238, 144, 0.338);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+.navto{
+    list-style-type: none;
+    display:flex;
+    margin: 0;
+    justify-content: center;
+}
+.pay{
+    color: rgb(9, 244, 9);
+}
+.navto a {
+    margin-right: 70px;
+    margin-bottom: 20px;
+    color: #00fa3ee0;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.sec1{
+    display:flex;
+    margin: 0;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+h2{
+    margin-left: 100px;
+}
+.sec1 div{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.sec2{
+    display:flex;
+    margin: 0;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+.sec2 div{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.sec3{
+    display:flex;
+    margin: 0;
+    justify-content: center;
+}
+.sec3 div{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.foot{
+    background-color: darkgreen;
+    text-align: center;
+    padding-bottom:20px;
+    padding-top: 20px;
+    margin-top:100px;
+}
+.abe {
+    background-color: white;
+    border: bottom 50px;   
+}
+.abe img {
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:20px;
+    width:200px;
+    height:350px;
+}
+.kab{
+    background-color: white;
+    
+    
+}
+.kab img{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 200px;
+    height: 250px;
+    
+}
+.bek{
+    background-color: white;
+    
+}
+.bek img{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 200px;
+    height: 350px;
+}
+body{
+    background-color: aliceblue;
+}
+
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
